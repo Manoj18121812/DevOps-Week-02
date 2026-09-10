@@ -40,7 +40,3 @@ DevOps-Week-02/
 ## Collaboration
 
 This project uses feature branches and Pull Requests to demonstrate GitHub collaboration.
-
-## Project Status
-
-Version 2 - Production Ready
