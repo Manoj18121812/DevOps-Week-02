@@ -21,7 +21,7 @@ pipeline {
             steps {
                 echo '===== TEST STAGE ====='
                 sh 'echo Running tests...'
-                sh 'echo All tests passed.'
+                sh 'echo All Tests passed.'
             }
         }
 
