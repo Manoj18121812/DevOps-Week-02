@@ -36,3 +36,7 @@ DevOps-Week-02/
 ├── style.css
 ├── Dockerfile
 └── devops-notes.txt
+
+## Collaboration
+
+This project uses feature branches and Pull Requests to demonstrate GitHub collaboration.
