@@ -40,3 +40,6 @@ DevOps-Week-02/
 ## Collaboration
 
 This project uses feature branches and Pull Requests to demonstrate GitHub collaboration.
+
+Jenkins Failure Testing
+This line is intentionally added for troubleshooting practice.
